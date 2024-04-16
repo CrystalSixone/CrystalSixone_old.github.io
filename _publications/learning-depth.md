@@ -1,0 +1,12 @@
+---
+title: "Learning Depth Representation from RGB-D Videos by Time-Aware Contrastive Pre-training"
+collection: publications
+permalink: /publication/learning-depth
+excerpt: 'He, Zongtao and **Wang, Liuyi** and Dang, Ronghao and Li, Shu and Yan, Qingqing and Liu, Chengju and Chen, Qijun'
+date: 2023-12-17
+venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
+paperurl: 'https://ieeexplore.ieee.org/document/10288539'
+citation: ''
+---
+
+Existing end-to-end depth representation in embodied AI is often task-specific and lacks the benefits of emerging pre-training paradigm due to limited datasets and training techniques for RGB-D videos. To address the challenge of obtaining robust and generalized depth representation for embodied AI, we introduce a unified RGB-D video dataset (UniRGBD) and a novel time-aware contrastive (TAC) pre-training approach. UniRGBD addresses the scarcity of large-scale depth pre-training datasets by providing a comprehensive collection of data from diverse sources in a unified format, enabling convenient data loading and accommodating various data domains. We also design an RGB-Depth alignment evaluation procedure and introduce a novel Near-K accuracy metric to assess the scene understanding capability of the depth encoder. Then, the TAC pre-training approach fills the gap in depth pre-training methods suitable for RGB-D videos by leveraging the intrinsic similarity between temporally proximate frames. TAC incorporates a soft label design that acts as valid label noise, enhancing the depth semantic extraction and promoting diverse and generalized knowledge acquisition. Furthermore, the adjustments in perspective between temporally proximate frames facilitate the extraction of invariant and comprehensive features, enhancing the robustness of the learned depth representation. Additionally, the inclusion of temporal information stabilizes training gradients and enables spatio-temporal depth perception. Comprehensive evaluation of RGB-Depth alignment demonstrates the superiority of our approach over state-of-the-art methods. We also conduct uncertainty analysis and a novel zero-shot experiment to validate the robustness and generalization of the TAC approach. Moreover, our TAC pre-training demonstrates significant performance improvements in various embodied AI tasks, providing compelling evidence of its efficacy across diverse domains.
