@@ -1,7 +1,7 @@
 ---
 title: "A Dual Semantic-Aware Recurrent Global-Adaptive Network for Vision-and-Language Navigation"
 collection: publications
-permalink: /publication/goat
+permalink: /publication/dsrg
 excerpt: 'Liuyi Wang, Zongtao He, Jiagui Tang, Ronghao Dang, Naijia Wang, Chengju Liu, Qijun Chen'
 date: 2023-01-01
 venue: 'Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence'
