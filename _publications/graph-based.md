@@ -2,7 +2,7 @@
 title: "Graph Based Twin Cost Matrices for Unbalanced Assignment Problem with Improved Ant Colony Algorithm"
 collection: publications
 permalink: /publication/graph-based
-excerpt: 'Liuyi Wang, Zongtao He, Chengju Liu, Qijun Chen'
+excerpt: '**Liuyi Wang**, Zongtao He, Chengju Liu, Qijun Chen'
 date: 2021-01-01
 venue: 'Results in Applied Mathematics'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2590037421000467'

@@ -3,7 +3,7 @@ title: "PASTS: Progress-Aware Spatio-Temporal Transformer Speaker For Vision-and
 Language Navigation"
 collection: publications
 permalink: /publication/pasts
-excerpt: 'Liuyi Wang, Chengju Liu, Zongtao He, Shu Li, Qingqing Yan, Huiyi Chen, Qijun Chen'
+excerpt: '**Liuyi Wang**, Chengju Liu, Zongtao He, Shu Li, Qingqing Yan, Huiyi Chen, Qijun Chen'
 date: 2023-11-09
 venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0952197623016718'
