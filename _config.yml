@@ -12,7 +12,7 @@ title                    : "Liuyi Wang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Liuyi Wang"
 description              : &description "A third-year Ph.D candidate from Tongji University"
-url                      : https://w61.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://CrystalSixone.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CrystalSixone.github.io"
 
