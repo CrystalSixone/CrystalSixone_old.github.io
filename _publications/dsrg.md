@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "A Dual Semantic-Aware Recurrent Global-Adaptive Network For Vision-and-Language Navigation"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+permalink: 
+excerpt: 'Liuyi Wang, Zongtao He, Jiagui Tang, Ronghao Dang, Naijia Wang, Chengju Liu, Qijun Che'
+date: 2023
+venue: 'International Joint Conferences on Artificial Intelligence (IJCAI)'
+paperurl: '[A Dual Semantic-Aware Recurrent Global-Adaptive Network for Vision-and-Language Navigation](https://www.ijcai.org/proceedings/2023/164)'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
