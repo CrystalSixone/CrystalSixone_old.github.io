@@ -1,7 +1,7 @@
 ---
 title: "RES-StS: Referring Expression Speaker via Self-Training With Scorer for Goal-Oriented Vision-Language Navigation"
 collection: publications
-permalink: /publication/res-sts
+permalink: 
 excerpt: 'Liuyi Wang, Zongtao He, Ronghao Dang, Huiyi Chen, Chengju Liu, Qijun Chen'
 date: 2023
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
