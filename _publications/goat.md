@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/goat
 excerpt: '**Wang, Liuyi** and Tang, Jiagui and He, Zongtao and Dang, Ronghao and Liu, Chengju and Chen, Qijun'
 date: 2024-6-22
-venue: 'Conference on Computer Vision and Pattern Recognition'
-paperurl: ''
+venue: 'Conference on Computer Vision and Pattern Recognition (CVPR)'
+paperurl: 'https://arxiv.org/pdf/2404.10241'
 citation: ''
 ---
 
