@@ -1,5 +1,5 @@
 ---
-title: "/data/ssd0/w61/CrystalSixone.github.io/_publications/doa copy.md"
+title: "RES-StS: Referring Expression Speaker via Self-training with Scorer for Goal-Oriented Vision-Language Navigation"
 collection: publications
 permalink: /publication/res-sts
 excerpt: '**Wang, Liuyi** and He, Zongtao and Dang, Ronghao and Chen, Huiyi and Liu, Chengju and Chen, Qijun'
